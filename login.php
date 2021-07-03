@@ -1,6 +1,7 @@
 <?php
    include("connects.php");
    session_start();
+//git testing
    
    if($_SERVER["REQUEST_METHOD"] == "POST") {
       // username and password sent from form 
